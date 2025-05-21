@@ -22,11 +22,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/your-username/booklist-app.git
+    https://github.com/IrfanChowdhury13/booklistweb-app.git
 
 Switch to the repo folder
 
-    cd carrental-app
+    cd booklistweb-app
 
 Install all the dependencies using composer
 
@@ -53,7 +53,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone https://github.com/IrfanChowdhury13/carrental-app.git
+    git clone https://github.com/IrfanChowdhury13/booklistweb-app.git
     cd carrental-app
     composer install
     cp .env.example .env
