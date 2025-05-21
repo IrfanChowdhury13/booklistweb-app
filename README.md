@@ -1,4 +1,4 @@
-# Simple Car Rental Application
+# 📚 Book List Web Application
 
 ----
 
